@@ -1,17 +1,13 @@
-
-
 import React from 'react'
-
-import NavBar from './components/NavBar'
-
+// import NavBar from './componets/NavBar'
+import Home from './componets/Home'
 
 function App() {
- 
-
   return (
-   <div>
-    <NavBar/>
-   </div>
+    <div>
+      {/* <NavBar/> */}
+      <Home/>
+    </div>
   )
 }
 
