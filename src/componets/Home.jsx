@@ -1,6 +1,6 @@
 import React from 'react'
 import profilehero from '../assets/images/profilehero.png'
-// import { FaBeer } from 'react-icons/fa';
+
 function Home() {
   return (
     <div>
